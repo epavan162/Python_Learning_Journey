@@ -1,12 +1,11 @@
-# Python Learning Journey
+# Collection of Python assignments and their solutions. 
 
-Welcome to my Python Mastery Showcase! This repository is a curated collection of Python assignments that reflect my journey from beginner to advanced concepts. Each file demonstrates practical applications and my growing proficiency in Python.
+This repository highlights my skill development and showcases how I've applied Python to solve problems. Dive into the code to see practical implementations and solutions!
 
-# Python Assignments
 
-This repository contains a collection of Python assignments and their solutions. These assignments are organized from beginner to advanced topics in Python programming.
+# Files Included
 
-## Included Files
+This repository contains a collection of Python assignments and their solutions. Explore the code and see how each concept is applied to solve problems and create practical solutions.
 
 ### Python Basics
 - **File:** `python_basics.py`
@@ -65,16 +64,16 @@ This repository contains a collection of Python assignments and their solutions.
 - **Description:** Shows the use of static methods in Python classes.
 
 ### Packages
-- **Files:** `packages/`
-  - `packages/__init__.py`
-  - `packages/class1.py`
-  - `packages/class2.py`
-  - `packages_main.py`
+- **Files:** - `packages_main.py`
+    - `packages/`
+    - `packages/__init__.py`
+    - `packages/class1.py`
+    - `packages/class2.py`
+
 - **Description:** Demonstrates how to create and use packages in Python.
 
 
-This repository highlights my skill development and showcases how I've applied Python to solve problems. Dive into the code to see practical implementations and solutions!
-Explore the code and see how each concept is applied to solve problems and create practical solutions.
+
 
 ---
 
